@@ -1,0 +1,5 @@
+Match=1
+misMatch=-1
+gap=-10
+space=-2
+(begin of k)/(length difference)=2
